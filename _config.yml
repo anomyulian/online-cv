@@ -15,7 +15,7 @@ style: styles-6
 #Profile information
 name: Anom Yulian Hartanto
 tagline: Frontend Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: anom-circle.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: a.yulian.h@gmail.com
